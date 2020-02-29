@@ -32,14 +32,14 @@ def end_game(total)
 end
 
 def initial_round
-  # code #initial_round here
+  
   sum = deal_card + deal_card
   display_card_total(sum)
   return sum# code #initial_round here
 end
 
 def hit?
-  # code hit? here
+  
 end
 
 def invalid_command
